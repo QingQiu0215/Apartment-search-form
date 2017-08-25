@@ -1,0 +1,4 @@
+downtown:Studio:fire place:800:
+West Island:5.5:Indoor Parking:1000:
+NDG:4.5:Outdoor Parking:900:
+Lower Westmount:3.5:fire place:1100:
